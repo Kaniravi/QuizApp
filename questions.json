@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "<script>",
+    "choice2":"<javascript>",
+    "choice3":"<js>",
+    "choice4":"<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1":"<script href='xxx.js'>",
+    "choice2":"<script name='xxx.js'>",
+    "choice3":"<script src='xxx.js'>",
+    "choice4":"<script file='xxx.js'>",
+    "answer" :3
+  },
+  {
+    "question": "How do you write 'hello world' in an alert box?",
+    "choice1": "msgBox('hello world')",
+    "choice2": "alert('hello world')",
+    "choice3": "msg('hello world')",
+    "choice4": "alertBox('hello world')",
+    "answer": 2
+  },
+  {
+    "question": "How to write the content inside the id which is name in html?",
+    "choice1":"document.getElementsById('name')",
+    "choice2":"document.getElementById('name')",
+    "choice3":"document.getElementsByClassName('name')",
+    "choice4":"none of the above",
+    "answer": 2
+  }
+]

@@ -1,0 +1,35 @@
+*{
+  margin:0 auto;
+  padding:0;
+  box-sizing: border-box;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+
+}
+#finalScore{
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+#highScoreList{
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 10px;
+}
+
+.high-score{
+  font-size: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.high-score:hover{
+  transform:  scale(1.025);
+
+}
+
